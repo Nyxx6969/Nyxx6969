@@ -15,3 +15,5 @@
   An nuker simple and fast for destroy any servers
 
   <img src="https://i.imgur.com/JgHTZVd.gif" width="500" /><br/>
+
+  credit to : **san**
