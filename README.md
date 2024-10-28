@@ -16,4 +16,8 @@
 
   <img src="https://i.imgur.com/JgHTZVd.gif" width="500" /><br/>
 
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?color=CC42B3&center=true&size=22&lines=Just+a+bad+dev">
+</p>
+
   credit to : **san**
