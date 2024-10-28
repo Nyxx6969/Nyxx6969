@@ -17,7 +17,7 @@
   <img src="https://i.imgur.com/JgHTZVd.gif" width="500" /><br/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?color=CC42B3&center=true&size=22&lines=Just+a+bad+dev">
+  <img src="https://readme-typing-svg.herokuapp.com?color=CC42B3&center=true&size=22&lines=Just+a+bad+dev+🧢;Randomly+created+codes+🖥️;Nyx+is+not+a+person+🧠">
 </p>
 
   credit to : **san**
