@@ -5,4 +5,4 @@
 <br/>
 <br/>
 
-- <img src="https://imgur.com/a/fnHSScb.png" alt="." width="16" height="16"/> Student from France
+- <img src="https://imgur.com/a/fnHSScb.png" alt="." width="16" height="16" /> Student from France
